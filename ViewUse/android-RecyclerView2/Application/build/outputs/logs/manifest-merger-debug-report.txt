@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.0.0.aar\8ae7751a906aa86b3db86fc8c09695d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\913bcdba38617fb1d218ae7f81597fca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\7e8f2e16342762494e8479222e1cd181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\d01816f9d3d64bfebba27de25e9777a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\d24d034dd4bd0e25f2924fd39a119ac1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e763f1a4b10c5988506dd6f7ccdf97a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\2c2913e70dae645947c98b0ee70c1cd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\cf6c3a02aea185a6108495e5062a6c04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9dcef07eda17aadb45dfe8c7e7725502\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\7ebead103f76bdf143b3bf3e116c2cbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\849fa65fb957a570276b502ed339812a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\1240d70241c0803074e35f4532e6a97e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\c334ebad03eb02d5804fef58b875ba47\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:19:5-47
+	android:versionName
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+application
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:25:5-37:19
+	android:label
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:25:18-44
+	android:theme
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.recyclerview.MainActivity
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:30:9-36:20
+	android:label
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:31:19-51
+	android:name
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:30:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.0.0.aar\8ae7751a906aa86b3db86fc8c09695d7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.0.0.aar\8ae7751a906aa86b3db86fc8c09695d7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\913bcdba38617fb1d218ae7f81597fca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\913bcdba38617fb1d218ae7f81597fca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\7e8f2e16342762494e8479222e1cd181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\7e8f2e16342762494e8479222e1cd181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\d01816f9d3d64bfebba27de25e9777a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\d01816f9d3d64bfebba27de25e9777a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\d24d034dd4bd0e25f2924fd39a119ac1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\d24d034dd4bd0e25f2924fd39a119ac1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e763f1a4b10c5988506dd6f7ccdf97a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\e763f1a4b10c5988506dd6f7ccdf97a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\2c2913e70dae645947c98b0ee70c1cd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\2c2913e70dae645947c98b0ee70c1cd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\cf6c3a02aea185a6108495e5062a6c04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\cf6c3a02aea185a6108495e5062a6c04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9dcef07eda17aadb45dfe8c7e7725502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\9dcef07eda17aadb45dfe8c7e7725502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\7ebead103f76bdf143b3bf3e116c2cbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\7ebead103f76bdf143b3bf3e116c2cbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\849fa65fb957a570276b502ed339812a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\849fa65fb957a570276b502ed339812a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\1240d70241c0803074e35f4532e6a97e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\1240d70241c0803074e35f4532e6a97e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\c334ebad03eb02d5804fef58b875ba47\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\c334ebad03eb02d5804fef58b875ba47\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\android-RecyclerView\Application\src\main\AndroidManifest.xml
