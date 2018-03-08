@@ -12,19 +12,20 @@ import com.example.recyclerviewdemo.R;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.awt.*;
 
 /**
  * Created by zqs on 2018/3/8.
  */
+
 /**
  * RecyclerView实现setEmptyView()
  * 运用到观察者模式 来实现
  */
 public class Activity5 extends AppCompatActivity {
 
-    private EmptyRecyclerView mRv;
-    private List<String> mData;
-    private NormalAdapter mAdapter;
+      private EmptyRecyclerView mRv;
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,9 +41,12 @@ public class Activity5 extends AppCompatActivity {
         mRv.setAdapter(mAdapter);
     }
 
+    private List<String> mData;
+    private NormalAdapter mAdapter;
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu_5,menu);
+        getMenuInflater().inflate(R.menu.menu_5, menu);
         return true;
     }
 
@@ -50,15 +54,15 @@ public class Activity5 extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.item_add:
-                 mData.add(0,"hello");
-                 mAdapter.notifyItemInserted(0);
-                 break;
+                mData.add(0, "hello");
+                mAdapter.notifyItemInserted(0);
+                break;
             case R.id.item_delete:
-                 if (!mData.isEmpty()) {
-                     mData.remove(0);
-                     mAdapter.notifyItemRemoved(0);
-                 }
-                 break;
+                if (!mData.isEmpty()) {
+                    mData.remove(0);
+                    mAdapter.notifyItemRemoved(0);
+                }
+                break;
         }
 
         return super.onOptionsItemSelected(item);
