@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.jaeger.statusbaruitl:library:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\058f3aa4457f0041e9240c7b9196b099\AndroidManifest.xml:2:1-13:12
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.1.aar\2a3ee79902e9fd504014fc334badeccc\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c12b300e70ababe243721bf9eb9c9a2b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\48ca18f31489cfb8d342b55a6d4bbf27\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\136fbd49f1fa03fb3a06e2a1cbdbf4c8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f770057d9bd59ce89286efd4de56db1b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5c50b2ff28f9a059176d4c272b79748\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8bcc72252c75425fe8f81b6131c3e91f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\03e8fe8981ef56ca4eb44a64f6041168\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\36d0125419c5148af3899925e973f67b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\419957d935bfd5a13a76b361bc700595\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\70522d82974df304f23e207b92b0e676\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c9bc8633f6933a79df63d1772a5cc44f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\64eba0e27939ea89ae9235dc1add4109\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9942b6f3d790efdd73a8994cc0fa7582\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\71526571873807cb75430d27ee828d6e\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:3:11-38
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.jaeger.statusbaruitl:library:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\058f3aa4457f0041e9240c7b9196b099\AndroidManifest.xml:11:5-20
+MERGED from [com.jaeger.statusbaruitl:library:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\058f3aa4457f0041e9240c7b9196b099\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c12b300e70ababe243721bf9eb9c9a2b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c12b300e70ababe243721bf9eb9c9a2b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\48ca18f31489cfb8d342b55a6d4bbf27\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\48ca18f31489cfb8d342b55a6d4bbf27\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\136fbd49f1fa03fb3a06e2a1cbdbf4c8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\136fbd49f1fa03fb3a06e2a1cbdbf4c8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f770057d9bd59ce89286efd4de56db1b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f770057d9bd59ce89286efd4de56db1b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5c50b2ff28f9a059176d4c272b79748\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5c50b2ff28f9a059176d4c272b79748\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8bcc72252c75425fe8f81b6131c3e91f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8bcc72252c75425fe8f81b6131c3e91f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\03e8fe8981ef56ca4eb44a64f6041168\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\03e8fe8981ef56ca4eb44a64f6041168\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\36d0125419c5148af3899925e973f67b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\36d0125419c5148af3899925e973f67b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\419957d935bfd5a13a76b361bc700595\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\419957d935bfd5a13a76b361bc700595\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\70522d82974df304f23e207b92b0e676\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\70522d82974df304f23e207b92b0e676\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c9bc8633f6933a79df63d1772a5cc44f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c9bc8633f6933a79df63d1772a5cc44f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\64eba0e27939ea89ae9235dc1add4109\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\64eba0e27939ea89ae9235dc1add4109\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9942b6f3d790efdd73a8994cc0fa7582\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9942b6f3d790efdd73a8994cc0fa7582\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\71526571873807cb75430d27ee828d6e\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\71526571873807cb75430d27ee828d6e\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.demo1.MainActivity
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+MERGED from [com.jaeger.statusbaruitl:library:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\058f3aa4457f0041e9240c7b9196b099\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jaeger.statusbaruitl:library:1.1.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\058f3aa4457f0041e9240c7b9196b099\AndroidManifest.xml:7:5-9:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.1.aar\2a3ee79902e9fd504014fc334badeccc\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:glide-transformations:2.0.1] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\glide-transformations-2.0.1.aar\2a3ee79902e9fd504014fc334badeccc\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c12b300e70ababe243721bf9eb9c9a2b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c12b300e70ababe243721bf9eb9c9a2b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\48ca18f31489cfb8d342b55a6d4bbf27\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\48ca18f31489cfb8d342b55a6d4bbf27\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\136fbd49f1fa03fb3a06e2a1cbdbf4c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\136fbd49f1fa03fb3a06e2a1cbdbf4c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f770057d9bd59ce89286efd4de56db1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f770057d9bd59ce89286efd4de56db1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5c50b2ff28f9a059176d4c272b79748\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5c50b2ff28f9a059176d4c272b79748\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8bcc72252c75425fe8f81b6131c3e91f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8bcc72252c75425fe8f81b6131c3e91f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\03e8fe8981ef56ca4eb44a64f6041168\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\03e8fe8981ef56ca4eb44a64f6041168\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\36d0125419c5148af3899925e973f67b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\36d0125419c5148af3899925e973f67b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\419957d935bfd5a13a76b361bc700595\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\419957d935bfd5a13a76b361bc700595\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\70522d82974df304f23e207b92b0e676\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\70522d82974df304f23e207b92b0e676\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c9bc8633f6933a79df63d1772a5cc44f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c9bc8633f6933a79df63d1772a5cc44f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\64eba0e27939ea89ae9235dc1add4109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\64eba0e27939ea89ae9235dc1add4109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9942b6f3d790efdd73a8994cc0fa7582\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9942b6f3d790efdd73a8994cc0fa7582\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\71526571873807cb75430d27ee828d6e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\71526571873807cb75430d27ee828d6e\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c12b300e70ababe243721bf9eb9c9a2b\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+		ADDED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+		INJECTED from D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\CoordinatorLayout\Zqs_CoordinatorLayout\demo1\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c12b300e70ababe243721bf9eb9c9a2b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\48ca18f31489cfb8d342b55a6d4bbf27\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\48ca18f31489cfb8d342b55a6d4bbf27\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f770057d9bd59ce89286efd4de56db1b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\f770057d9bd59ce89286efd4de56db1b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5c50b2ff28f9a059176d4c272b79748\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a5c50b2ff28f9a059176d4c272b79748\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8bcc72252c75425fe8f81b6131c3e91f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8bcc72252c75425fe8f81b6131c3e91f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\03e8fe8981ef56ca4eb44a64f6041168\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\03e8fe8981ef56ca4eb44a64f6041168\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\36d0125419c5148af3899925e973f67b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\36d0125419c5148af3899925e973f67b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\419957d935bfd5a13a76b361bc700595\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\419957d935bfd5a13a76b361bc700595\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\70522d82974df304f23e207b92b0e676\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\70522d82974df304f23e207b92b0e676\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c9bc8633f6933a79df63d1772a5cc44f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\c9bc8633f6933a79df63d1772a5cc44f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\64eba0e27939ea89ae9235dc1add4109\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\64eba0e27939ea89ae9235dc1add4109\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9942b6f3d790efdd73a8994cc0fa7582\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9942b6f3d790efdd73a8994cc0fa7582\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c12b300e70ababe243721bf9eb9c9a2b\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\c12b300e70ababe243721bf9eb9c9a2b\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\71526571873807cb75430d27ee828d6e\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\71526571873807cb75430d27ee828d6e\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Zoran\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\71526571873807cb75430d27ee828d6e\AndroidManifest.xml:26:13-58

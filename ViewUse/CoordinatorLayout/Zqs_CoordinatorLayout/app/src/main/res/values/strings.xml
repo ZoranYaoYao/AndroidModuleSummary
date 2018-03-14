@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zqs_CoordinatorLayout</string>
+    <string name="behavior_footer_depend_appbar">com.example.zqs.coordinatorlayout.behavior.BottomBarBehavior</string>
+</resources>

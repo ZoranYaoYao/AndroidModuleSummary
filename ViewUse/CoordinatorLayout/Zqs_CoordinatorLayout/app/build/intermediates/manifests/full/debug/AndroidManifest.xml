@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zqs.contralayout"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.zqs.coordinatorlayout.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.zqs.coordinatorlayout.toolBar.ToolBarSampleSnar" >
+        </activity>
+        <activity android:name="com.example.zqs.coordinatorlayout.toolBar.ToolBarSample" >
+        </activity>
+        <activity android:name="com.example.zqs.coordinatorlayout.viewPager.ViewPagerSample" >
+        </activity>
+        <activity android:name="com.example.zqs.coordinatorlayout.viewPager.ViewPagerParallax" >
+        </activity>
+        <activity android:name="com.example.zqs.coordinatorlayout.viewPager.ViewPagerParallaxSnap" >
+        </activity>
+        <!-- <activity android:name=".zhihu.ZhiHuActivity"> -->
+        <!-- </activity> -->
+        <activity android:name="com.example.zqs.coordinatorlayout.jianshu.JianShuActivity" >
+        </activity>
+        <!-- <activity android:name=".zhihu.ZhiHuHomeActivity"> -->
+        <!-- </activity> -->
+        <activity android:name="com.example.zqs.coordinatorlayout.FloatingActionButtton.FloatingActionButtonActivity" >
+        </activity>
+        <!-- <activity android:name=".FloatingActiobButtton.HorizontalSample"> -->
+        <!-- </activity> -->
+        <!-- <activity android:name=".cardView.CardViewSample"> -->
+        <!-- </activity> -->
+        <!-- <activity android:name=".drawlayout.DrawLayoutSample"> -->
+        <!-- </activity> -->
+        <!-- <activity android:name=".bottomsheet.BottomSheetActivity"> -->
+        <!-- </activity> -->
+        <!-- <activity android:name=".bottomsheet.BaiduMapSample"> -->
+        <!-- </activity> -->
+        <!-- <activity android:name=".viewPager.ViewPagerNew"> -->
+        <!-- </activity> -->
+        <!-- <activity android:name=".weibo.WeiboActivity"> -->
+        <!-- </activity> -->
+        <!-- <activity android:name=".weibo.WeiboSampleActivity"> -->
+        <!-- </activity> -->
+        <activity android:name="com.example.zqs.coordinatorlayout.dida.DidaSample" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="25.4.0" />
+    </application>
+
+</manifest>
