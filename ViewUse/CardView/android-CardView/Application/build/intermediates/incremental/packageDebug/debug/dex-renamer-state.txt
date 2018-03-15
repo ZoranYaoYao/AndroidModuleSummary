@@ -1,0 +1,4 @@
+#Thu Mar 15 15:38:02 CST 2018
+base.0=D\:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\CardView\\android-CardView\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\CardView\\android-CardView\\Application\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Zoran\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-24.0.0.aar\\5802165c16eefa87ee9108833b7b37e9\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,7,8,9,10,17,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,989,1048,1105,1159,1573,1637,1763",
+                        "endLines": "2,3,4,5,7,8,9,16,18,21,24",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "111,173,235,299,1043,1100,1154,1568,1632,1758,1886"
+                    }
+                }
+            ]
+        }
+    ]
+}
