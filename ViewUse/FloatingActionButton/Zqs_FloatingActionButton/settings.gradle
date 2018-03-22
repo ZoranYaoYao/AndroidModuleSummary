@@ -1,0 +1,1 @@
+include ':app', ':de1', ':de2'

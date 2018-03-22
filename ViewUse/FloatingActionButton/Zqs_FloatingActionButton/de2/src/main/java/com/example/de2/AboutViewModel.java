@@ -1,0 +1,51 @@
+package com.example.de2;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.Intent;
+import android.view.View;
+
+
+/**
+ * Created by Lv on 2016/7/20.
+ */
+public class AboutViewModel {
+
+    private Context context;
+
+    public AboutViewModel(Context context) {
+        this.context = context;
+    }
+
+    public String getGithubAddress() {
+        return "github地址";
+    }
+
+    public String getEmailAddress() {
+        return "1025202464@qq.com";
+    }
+
+    public void onClickEvent(View view) {
+//        switch (view.getId()) {
+//            case R.id.button_praise:
+//                IntentUtil.redirectWebView(context, "github", Constant.GITHUB_URL);
+//                break;
+//            case R.id.button_star:
+//                IntentUtil.redirectWebView(context, "github", Constant.MY_GITHUB_URL);
+//                break;
+//            case R.id.button_comment:
+//                IntentUtil.redirectWebView(context, "github", Constant.GITHUB_URL);
+//                break;
+//            case R.id.item_github_address:
+//                IntentUtil.redirectWebView(context, "github", Constant.GITHUB_URL);
+//                break;
+//            case R.id.btn_exit_login:
+//                AppUtils.setHasLogin(false);
+//                EventBus.getDefault().post(new MessageEvent(1, null));
+//                context.startActivity(new Intent(context, LoginActivity.class));
+//                ((Activity) context).finish();
+//                ((Activity) context).overridePendingTransition(R.anim.slide_in, R.anim.slide_out_back);
+//                break;
+//        }
+    }
+}

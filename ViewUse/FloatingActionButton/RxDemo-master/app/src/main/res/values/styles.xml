@@ -1,0 +1,96 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="commBackground">@android:color/white</item>
+        <item name="commTextColor">@color/grey700</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.TransparentActivity" parent="AppTheme.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="MainTheme" parent="AppTheme.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
+    </style>
+
+    <!--白天主题，此处直接和AppTheme一样-->
+    <style name="DayTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="commBackground">@android:color/white</item>
+        <item name="commTextColor">@color/grey700</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!--夜间主题-->
+    <style name="NightTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/grey700</item>
+        <item name="colorPrimaryDark">@color/grey700</item>
+        <item name="colorAccent">@color/grey700</item>
+        <item name="commBackground">@color/grey700</item>
+        <item name="commTextColor">@color/color8A9599</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.Light" parent="AppTheme.NoActionBar">
+        <item name="android:textColorHint">@color/grey100</item>
+        <item name="colorControlNormal">@color/grey100</item>
+        <item name="colorControlActivated">@color/white</item>
+        <item name="colorControlHighlight">@color/white</item>
+    </style>
+
+    <style name="AccentButton" parent="Widget.AppCompat.Button">
+        <item name="colorButtonNormal">?attr/colorPrimary</item>
+    </style>
+
+    <!-- ToolBar -->
+    <style name="ToolBarStyle" parent="Widget.AppCompat.Toolbar">
+        <item name="actionMenuTextColor">@color/grey700</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"></style>
+
+    <style name="AppTheme.Button.Borderless" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="CollapsingTextAppearance" parent="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" />
+
+    <style name="CollapsingTextAppearance.TitleSize">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="counterOverflow">
+        <item name="android:textColor">@android:color/holo_red_light</item>
+    </style>
+
+    <style name="MenuButtonsStyle">
+        <item name="fab_size">mini</item>
+        <item name="fab_colorNormal">?attr/colorPrimary</item>
+        <item name="fab_colorPressed">?attr/colorPrimary</item>
+    </style>
+
+</resources>
