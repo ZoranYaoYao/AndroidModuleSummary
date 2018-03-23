@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\FloatingActionButton\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_me.png",
+        "source": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\FloatingActionButton\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_me.png"
+    },
+    {
+        "merged": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\FloatingActionButton\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_cloud.png",
+        "source": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\FloatingActionButton\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_cloud.png"
+    },
+    {
+        "merged": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\FloatingActionButton\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_settings.png",
+        "source": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\FloatingActionButton\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\FloatingActionButton\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_home.png",
+        "source": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\FloatingActionButton\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\FloatingActionButton\\MDStudySamples-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_explore.png",
+        "source": "D:\\Project_WorkSpace\\AndroidModuleSummary\\ViewUse\\FloatingActionButton\\MDStudySamples-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_explore.png"
+    }
+]

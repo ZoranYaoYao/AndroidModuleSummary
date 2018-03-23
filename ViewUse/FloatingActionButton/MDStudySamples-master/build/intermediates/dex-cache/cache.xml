@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.getbase-floatingactionbutton-1.10.1_092e4c7e4523f4bd81d3148455e47b83a73fce38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_49d6e17ba2e570230721318a1f6834bab0892fac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b9ff19503a9278061d64493e385279ec591a8f0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5d5b4dbdc509b340ddf7254b93062194a93d5547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f9e633c990dccab1c79692a60a4073ff4a2cfa63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_21e8f3bfa4ad30ee4110908bcdd9bf3b13af0757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_19f6cc03064a23eeb5753ddb248144734de4b46c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.3.0_f18395ab5d6a6eaf2c18a50cb3eb4a5cba2bf9be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_b58c3d1d319e0f5bee044f642d071d4b559a065a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.0_a3e0af1ff1cb6a97504d6cb30efda5340eca902b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_36be86724f88546b8f47746ba0af88e15475fcac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_94d571fac12e58f6b1cff0355b23849e2f3a0544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zoran\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_385cec64c733568d1b568d4b5fc614b6f45347ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_93b6364b66e6281708af47549aaa91481de0b060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_ca962984b401fec326098f9710499fea25261d94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_698695a520bb1cf2ab1e96c7026b7c32b71f51da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_322090f4012fc8e29b1853f53cacb64cd63f5187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.0_d7c7994891b4efe60d7bc187c112f364b848d7d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_c8807bba44e23f8dd2699d6095dce73ca120a5f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Project_WorkSpace\AndroidModuleSummary\ViewUse\FloatingActionButton\MDStudySamples-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_c80429c91ec6d547bac89a5f542fe6be74322883.jar" />
+    </item>
+
+</items>
