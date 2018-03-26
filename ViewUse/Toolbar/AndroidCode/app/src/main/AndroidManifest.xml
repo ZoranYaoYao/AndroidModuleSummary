@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sean.demo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".ui.MainActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.a.activity.HandlerTestActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.a.activity.EventBusActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.BaseActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.a.activity.RecyclerDemoActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.a.activity.MyDialogActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.a.activity.webview.WebViewActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.a.activity.AsyncTaskActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.a.activity.HandlerThreadActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.a.activity.IntentServiceActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.a.activity.ThreadPoolActivity"
+            android:configChanges="screenSize"
+            android:screenOrientation="portrait" />
+
+        <service android:name=".ui.a.activity.UploadImgService" />
+
+        <activity android:name=".ui.a.activity.RecyclerItemDividerActivity" />
+        <activity android:name=".ui.a.activity.ProgressViewActivity" />
+        <activity android:name=".ui.a.activity.ArcProgressActivity" />
+        <activity android:name=".ui.a.activity.webview.ViewDispatchActivity" />
+        <activity android:name=".ui.a.activity.SafeHandlerDemoActivity"></activity>
+    </application>
+
+</manifest>
