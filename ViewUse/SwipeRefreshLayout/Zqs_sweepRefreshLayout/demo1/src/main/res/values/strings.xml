@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo1</string>
+
+
+    <string name="menu_clear">Clear items</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="empty_text">List is empty! Swipe down to refresh.</string>
+
+</resources>
