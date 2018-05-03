@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zqs.baidu.tts.synthesis.MainActivity"
+    android:orientation="horizontal"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/normal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/textview"
+        android:text="正常播报"
+        android:onClick="onclick"/>
+
+    <Button
+        android:id="@+id/insert_order"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/textview"
+        android:text="插入一条订单"
+        android:onClick="onclick"/>
+
+    <Button
+        android:id="@+id/insert_ring"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/textview"
+        android:text="插入一个铃声"
+        android:onClick="onclick"/>
+</LinearLayout>
