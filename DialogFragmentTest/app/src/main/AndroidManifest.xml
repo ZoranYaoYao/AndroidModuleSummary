@@ -18,6 +18,9 @@
         </activity>
 
         <activity android:name=".test2.FourActivity">
+
+        </activity>
+        <activity android:name=".test2.FiveActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

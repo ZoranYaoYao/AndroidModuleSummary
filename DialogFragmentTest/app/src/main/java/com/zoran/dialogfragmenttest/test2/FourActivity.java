@@ -2,9 +2,11 @@ package com.zoran.dialogfragmenttest.test2;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
+import android.support.v4.app.DialogFragment;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
@@ -24,21 +26,29 @@ public class FourActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
+//        if (savedInstanceState != null)
+//            savedInstanceState.putParcelable("android:support:fragments", null);
         super.onCreate(savedInstanceState);
+        Log.e("zqs1", "FourActivity onCreate");
         setContentView(R.layout.activity_four);
         fragmentManager = getSupportFragmentManager();
-        Button btn = findViewById(R.id.btn);
-        fragmentManager.beginTransaction().add(R.id.fl_content, myFragment, "my_fragment").commit();
-        showFg = myFragment;
+        Button btn = findViewById(R.id.btn_replace);
+        Integer i = new Integer(1111);
+//        fragmentManager.beginTransaction().add(R.id.fl_content, myFragment, "my_fragment").commit();
+//        showFg = myFragment;
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
                 /** 替换操作*/
-                replace();
+//                replace();
 
                 /** 添加操作*/
-                //                add();
+//                                add();
+
+                /** dialog 被杀死之后,是不会有修复效果的*/
+//                AlertDialog.Builder builder = new AlertDialog.Builder(FourActivity.this).setTitle("你好");
+//                builder.create().show();
 
                 /** 交替使用*/
 //                add_Show_Hide();
@@ -47,6 +57,32 @@ public class FourActivity extends AppCompatActivity {
             }
         });
 
+
+
+    }
+
+    @Override
+    protected void onRestoreInstanceState(Bundle savedInstanceState) {
+        super.onRestoreInstanceState(savedInstanceState);
+        Log.e("zqs1", "FourActivity onRestoreInstanceState");
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        Log.e("zqs1", "FourActivity onStart");
+    }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+        Log.e("zqs1", "FourActivity onRestart");
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        Log.e("zqs1", "FourActivity onSaveInstanceState");
     }
 
     /**
@@ -73,7 +109,11 @@ public class FourActivity extends AppCompatActivity {
      * add() : 会走fragment 周期的 onAttach() -> onResume()
      */
     private void add() {
-        fragmentManager.beginTransaction().add(R.id.fl_content, myFragment).commit();
+        try {
+            fragmentManager.beginTransaction().add(R.id.fl_content, myFragment).commit();
+        } catch (IllegalStateException e) {
+            Log.e("zqs", e.getMessage());
+        }
     }
 
     /**
