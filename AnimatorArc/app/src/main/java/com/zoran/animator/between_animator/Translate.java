@@ -33,7 +33,7 @@ public class Translate implements BetweenAnimation{
          toYDelta:    Y轴方向结束位置，可以是%，也可以是具体的像素
      */
     public void startXML(View view) {
-        Animation animation = AnimationUtils.loadAnimation(BaseApplication.getContext(), R.anim.translate);
+        Animation animation = AnimationUtils.loadAnimation(BaseApplication.getContext(), R.anim.shake);
         view.startAnimation(animation); //Core. 用view进行启动动画
     }
 

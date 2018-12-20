@@ -47,9 +47,9 @@ public class MainActivity extends AppCompatActivity {
         switch (view.getId()) {
             case R.id.btn_transfer:
                 Translate translate = new Translate();
-                //                translate.startXML(imgObject);
+                                translate.startXML(imgObject);
                 //                translate.startCode(imgObject);
-                translate.startCodeFixClick(imgObject);
+//                translate.startCodeFixClick(imgObject);
                 break;
             case R.id.btn_rotate:
                 Rotate rotate = new Rotate();

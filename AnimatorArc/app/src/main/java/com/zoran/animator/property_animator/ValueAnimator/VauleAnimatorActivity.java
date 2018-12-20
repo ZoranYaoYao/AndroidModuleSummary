@@ -8,6 +8,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 import com.zoran.animator.R;
+import com.zoran.animator.property_animator.AnimatorSet.AnimatorSetTest;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -34,7 +35,7 @@ public class VauleAnimatorActivity extends AppCompatActivity {
         ButterKnife.bind(this);
     }
 
-    @OnClick({R.id.btn_offint, R.id.btn_offloat})
+    @OnClick({R.id.btn_offint, R.id.btn_offloat,R.id.btn_animatorSet})
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.btn_offint:
@@ -44,6 +45,9 @@ public class VauleAnimatorActivity extends AppCompatActivity {
             case R.id.btn_offloat:
 //                new ofFloat().startCode(imgObject);
                 new ofFloat().startXML(imgObject);
+                break;
+            case R.id.btn_animatorSet:
+                AnimatorSetTest.startCode(imgObject);
                 break;
         }
 
