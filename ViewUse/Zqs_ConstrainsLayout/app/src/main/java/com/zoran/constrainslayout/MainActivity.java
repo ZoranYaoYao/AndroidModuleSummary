@@ -39,12 +39,20 @@ import android.os.Bundle;
  *
  * 7. tools:layout_editor_absoluteX="164dp" tools:layout_editor_absoluteY="234dp"
  *   拖动布局中X,Y的绝对距离
+ *
+ * =============
+ * 1. 左对齐的方式!!
+ *      app:layout_constraintStart_toStartOf="@+id/textView2"
+ *
+ * 2. 快速创建链式结构：选中所有，右键添加链式结构
+ *      https://segmentfault.com/a/1190000009536640?utm_source=tuicool&utm_medium=referral
+ *      eg:  app:layout_constraintHorizontal_chainStyle="spread_inside" 内部平均张开
  */
 public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_two);
     }
 }

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ll_container"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="@android:color/holo_red_light"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/btn_scrollto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="scrollTo()方法"/>
+
+        <Button
+            android:id="@+id/btn_scrollby"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="scrollBy()方法"/>
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
