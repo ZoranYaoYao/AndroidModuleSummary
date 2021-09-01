@@ -59,6 +59,7 @@ import kotlinx.android.parcel.Parcelize
  * 【解决】
  * Kotlin里面的打包使用的是kapt工具打包，所以要使用Kapt插件进行打包，在build.gradle中annotationProcessor不其中作用，导致找不到路径！！
  * https://www.jianshu.com/p/63f86dc8c459
+ *
  */
 class MainActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
