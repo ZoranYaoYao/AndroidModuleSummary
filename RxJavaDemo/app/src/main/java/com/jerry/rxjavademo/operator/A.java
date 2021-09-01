@@ -11,4 +11,11 @@ package com.jerry.rxjavademo.operator;
  * 4. 功能操作符
  */
 public class A {
+
+    /**
+     * Completable:
+     * ignoreElements() : 忽略next事件
+     * doOnSubscribe() : 执行订阅时，最先执行
+     * doFinally(): 执行订阅之后，最后一定执行
+     */
 }

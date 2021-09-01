@@ -203,7 +203,7 @@ public class Z6_Rxjava_Filte {
             }
         })
 //                .throttleWithTimeout(1, TimeUnit.SECONDS) //输出3,6, oncomplet 事件
-                .debounce(1, TimeUnit.SECONDS)
+                .debounce(1, TimeUnit.SECONDS) //输出3，6，！
 //                .throttleLast(1, TimeUnit.SECONDS)  //输出3,4,6, oncomplet 事件
                 .subscribe(observer);
     }
@@ -263,22 +263,24 @@ public class Z6_Rxjava_Filte {
 
         @Override
         public void onSubscribe(Disposable d) {
-            Log.d(TAG, "开始采用subscribe连接");
+            System.out.println("开始采用subscribe连接");
         }
 
         @Override
         public void onNext(Integer value) {
-            Log.d(TAG, "过滤后得到的事件是："+ value  );
+
+            System.out.println("过滤后得到的事件是："+ value);
         }
 
         @Override
         public void onError(Throwable e) {
-            Log.d(TAG, "对Error事件作出响应");
+
+            System.out.println("对Error事件作出响应");
         }
 
         @Override
         public void onComplete() {
-            Log.d(TAG, "对Complete事件作出响应");
+            System.out.println("对Complete事件作出响应");
         }
     };
 }

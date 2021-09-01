@@ -31,7 +31,7 @@ public class Z3_Rxjava_Map {
      * map（）
      *
      * 作用
-     * 对 被观察者发送的每1个事件都通过 指定的函数 处理，从而变换成另外一种事件
+     * 对被观察者发送的每1个事件参数 都通过指定的函数处理，从而变换成另外一种事件参数
      */
     public static void map() {
         Observable.create(new ObservableOnSubscribe<Integer>() {
@@ -50,7 +50,7 @@ public class Z3_Rxjava_Map {
         }).subscribe(new Consumer<String>() {
             @Override
             public void accept(String s) throws Exception {
-                Log.e(TAG, s);
+                System.out.println("Consumer accept " + s);
             }
         });
     }
@@ -81,7 +81,7 @@ public class Z3_Rxjava_Map {
         }).subscribe(new Consumer<String>() {
             @Override
             public void accept(String s) throws Exception {
-                Log.e(TAG, s);
+                System.out.println("Consumer accept " + s);
             }
         });
     }
@@ -91,7 +91,7 @@ public class Z3_Rxjava_Map {
      *
      * 作用：类似FlatMap（）操作符
      *
-     * 与FlatMap（）的 区别在于：拆分 & 重新合并生成的事件序列 的顺序 = 被观察者旧序列生产的顺序
+     * 与FlatMap（）的 区别在于：拆分 & 重新合并生成的事件序列 的顺序 = 被观察者旧序列生产的顺序!
      */
     public static void concatMap() {
         Observable.create(new ObservableOnSubscribe<Integer>() {
@@ -113,7 +113,7 @@ public class Z3_Rxjava_Map {
         }).subscribe(new Consumer<String>() {
             @Override
             public void accept(String s) throws Exception {
-                Log.e(TAG, s);
+                System.out.println("Consumer accept " + s);
             }
         });
     }
@@ -130,9 +130,9 @@ public class Z3_Rxjava_Map {
                 .subscribe(new Consumer<List<Integer>>() {
                     @Override
                     public void accept(List<Integer> integers) throws Exception {
-                        Log.d(TAG, " 缓存区里的事件数量 = " +  integers.size());
+                        System.out.println("Consumer accept 缓存区里的事件数量 =" + integers.size());
                         for (Integer value : integers) {
-                            Log.d(TAG, " 事件 = " + value);
+                            System.out.println("Consumer accept 事件 = "+ value);
                         }
                     }
                 });

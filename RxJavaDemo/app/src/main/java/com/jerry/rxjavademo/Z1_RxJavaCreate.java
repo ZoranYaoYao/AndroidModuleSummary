@@ -18,10 +18,12 @@ public class Z1_RxJavaCreate {
         Observable<Integer> observable = Observable.create(new ObservableOnSubscribe<Integer>() {
             @Override
             public void subscribe(ObservableEmitter<Integer> emitter) throws Exception {
+                Log.e("zqs", "subscribe");
                 emitter.onNext(1);
                 emitter.onNext(2);
                 emitter.onNext(3);
                 emitter.onComplete();
+
             }
         });
 

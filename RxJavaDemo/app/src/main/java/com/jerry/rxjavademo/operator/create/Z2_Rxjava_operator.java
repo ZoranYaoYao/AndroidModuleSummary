@@ -168,7 +168,7 @@ public class Z2_Rxjava_operator {
 
     /**
      * 2. 快速创建符
-     *      empty()
+     *      empty() : 不会发送onNext()事件， 会发送onComplete()事件
      *      error()
      *      never()
      */
@@ -259,7 +259,7 @@ public class Z2_Rxjava_operator {
     /**
      * 3.延迟创建
      *
-     * interval（）
+     * interval()
      *
      * 作用
      * 快速创建1个被观察者对象（Observable）

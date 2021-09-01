@@ -204,7 +204,7 @@ public class Z4_Rxjava_Concat {
 
 
     /**
-     * combineLatest（）
+     * combineLatest()
      *
      * 作用
      * 当两个Observables中的任何一个发送了数据后，
@@ -229,7 +229,7 @@ public class Z4_Rxjava_Concat {
     }
 
     /**
-     * reduce（）
+     * reduce()
      * 作用
      * 把被观察者需要发送的事件聚合成1个事件 & 发送
      * 聚合的逻辑根据需求撰写，但本质都是前2个数据聚合，然后与后1个数据继续进行聚合，依次类推
@@ -303,6 +303,14 @@ public class Z4_Rxjava_Concat {
      * 统计被观察者发送事件的数量
      */
     public static void count() {
+        Observable.just(1,2,3,4,5)
+                .count()
+                .subscribe(new Consumer<Long>() {
+                    @Override
+                    public void accept(Long aLong) throws Exception {
+                        Log.e(TAG, "发送的事件数量 =  "+aLong);
+                    }
+                });
         Observable.just(1,2,3,4,5)
                 .count()
                 .subscribe(new Consumer<Long>() {

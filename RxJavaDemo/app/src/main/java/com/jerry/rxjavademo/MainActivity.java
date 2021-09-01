@@ -10,6 +10,7 @@ import com.jerry.rxjavademo.operator.create.Z2_Rxjava_operator;
 import com.jerry.rxjavademo.operator.feture.Z5_Rxjava_Future;
 import com.jerry.rxjavademo.operator.filte.Z6_Rxjava_Filte;
 import com.jerry.rxjavademo.operator.map.Z3_Rxjava_Map;
+import com.jerry.rxjavademo.被观察者转换.Exchange;
 
 import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;
@@ -25,24 +26,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-        Observable.create(new ObservableOnSubscribe<Integer>() {
-            @Override
-            public void subscribe(ObservableEmitter<Integer> emitter) throws Exception {
-                emitter.onNext(1);
-                emitter.onError(new Throwable("error !!!!!!!1"));
-            }
-        })
-                .subscribe(new Consumer<Integer>() {
-            @Override
-            public void accept(Integer integer) throws Exception {
-                Log.e("a", "a");
-            }
-        });
-
-
         //1. 常见Rxjava的相关类
-//        Z1_RxJavaCreate.create();
+        Z1_RxJavaCreate.create();
 //        Z1_RxJavaCreate.create2();
 
 //        Z2();
@@ -56,6 +41,10 @@ public class MainActivity extends AppCompatActivity {
 //        Z6();
 
 //        Z7();
+
+        /**被观察者相互转换*/
+//        Exchange.Observable2Single();
+//        Exchange.Observable2Completable();
     }
 
     /**
