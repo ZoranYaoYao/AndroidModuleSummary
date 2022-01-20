@@ -16,6 +16,9 @@ import kotlinx.android.parcel.Parcelize
  * refer:
  * https://github.com/alibaba/ARouter
  *
+ *     一个用于帮助 Android App 进行组件化改造的框架 —— 支持模块间的路由、通信、解耦
+ *
+ * ===
  * 参考官网中文介绍进行文档整理的
  * 功能1：
  * 支持组件之间的跳转，带参数的跳转 [SecondActivity] [ThirdActivity]
